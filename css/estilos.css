@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    background-color: lightblue;
+    text-align: center;
+    padding: 10px;
+}
+h2{
+    border: 1px sold blue;
+    background-color: gray;
+}
